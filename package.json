@@ -1,6 +1,6 @@
 {
   "name": "open-weixin-api",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "description": "api library for wxapp open platform code with es6",
   "main": "index.js",
   "scripts": {
@@ -30,5 +30,7 @@
     "httpx": "^2.1.2",
     "xml2js": "^0.4.23"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "node-fetch": "^2.6.5"
+  }
 }
